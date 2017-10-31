@@ -13,6 +13,7 @@ Consists of data-structures and algorithms language wise.
 
 ### How to make PR
 1. Fork Repo on Web Page
+2. Create new branch within your own repo.
 2. Make your changes on your forked repo
 3. Make Pull Request to master
 
