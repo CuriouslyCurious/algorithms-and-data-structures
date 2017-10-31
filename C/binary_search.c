@@ -26,7 +26,7 @@ int BinSearch(Obj vec[], int key){
 	return -1;
 }
 
-main(){
+int main(){
 	Obj vec[Maxtam];
 	Obj aux;
 	int x,key,indice;
